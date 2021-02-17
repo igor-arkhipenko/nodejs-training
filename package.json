@@ -1,0 +1,29 @@
+{
+  "name": "node-training",
+  "version": "1.0.0",
+  "description": "NodeJS training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igor-arkhipenko/nodejs-training.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Igor Arkhipenko <igorarkhipenko@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igor-arkhipenko/nodejs-training/issues"
+  },
+  "homepage": "https://github.com/igor-arkhipenko/nodejs-training#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
